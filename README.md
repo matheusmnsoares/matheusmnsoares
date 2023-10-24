@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusmnsoares&label=Profile%20views&color=0e75b6&style=flat" alt="matheusmnsoares" /> </p>
 
-- 🌱 I’m currently learning **Python and node.js**
+- 🌱 I’m currently learning **Python and Java**
 
 - 📫 How to reach me **matheusmontenegro2011@hotmail.com**
 
