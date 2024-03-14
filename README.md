@@ -2,7 +2,7 @@
 
 - 📚 Computer Science Student at UFRRJ (2020 - Present)
 
-- 🌱 I’m currently learning Python and Java
+- 🌱 I’m currently learning Python and PowerBI
 - 📩 Contact: matheusmontenegro2011@hotmail.com
 
 <div align="center">
